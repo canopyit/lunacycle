@@ -4,11 +4,15 @@
     "title": "What Is A Normal Period?",
     "category": "Period Health",
     "readTime": "5 min read",
-    "image":
-        "https://....jpg",
-    "summary":
-        "Understand what a healthy menstrual cycle looks like.",
-    "content":
-        "Long article..."
+    "summary": "Learn what is considered normal.",
+    "content": "Full article content..."
+  },
+  {
+    "id": "early_pregnancy",
+    "title": "Early Pregnancy Signs",
+    "category": "Pregnancy",
+    "readTime": "6 min read",
+    "summary": "Understand early symptoms.",
+    "content": "Full article content..."
   }
 ]
