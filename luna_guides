@@ -68,5 +68,55 @@
   "fullContent": "### Understanding Cycle-Related Fatigue\n\nFeeling tired before or during your period is common. Hormonal shifts, sleep changes, and blood loss can all contribute.\n\n### Common Reasons\n\n• PMS\n• Poor sleep quality\n• Iron deficiency\n• Heavy menstrual bleeding\n• Stress\n• Low calorie intake\n• Dehydration\n\n### Signs Iron Levels May Be Low\n\n• Fatigue\n• Weakness\n• Dizziness\n• Shortness of breath\n• Pale skin\n\n### Helpful Strategies\n\n• Stay hydrated\n• Eat iron-rich foods\n• Prioritize sleep\n• Include protein at meals\n• Engage in light physical activity\n\n### When To See A Doctor\n\nPersistent exhaustion, fainting, severe weakness, or symptoms affecting daily life should be medically evaluated.\n\n### Key Takeaway\n\nWhile some tiredness during the menstrual cycle is normal, extreme fatigue may indicate an underlying issue such as heavy bleeding, iron deficiency, or another health condition."
 ,
   "colorHex": "#6D8EFF"
+},
+{
+  "id": "stress_delayed_period",
+  "title": "Could Stress Be Delaying My Period?",
+  "category": "Late Period",
+  "imageUrl": "",
+  "description": "Understand how stress can affect ovulation and delay menstruation.",
+  "fullContent": "### Can Stress Really Delay A Period?\n\nYes. Stress is one of the most common causes of a late period.\n\nWhen you're under emotional or physical stress, your body produces more cortisol, often called the stress hormone. High cortisol levels can interfere with the hormones responsible for ovulation.\n\n### How It Happens\n\nThe menstrual cycle is controlled by communication between the brain and ovaries. Stress can disrupt this communication and delay ovulation.\n\nIf ovulation happens later than usual, your period will also arrive later.\n\n### Common Sources Of Stress\n\n• Exams and studies\n• Work pressure\n• Relationship problems\n• Financial concerns\n• Lack of sleep\n• Illness or injury\n• Major life changes\n\n### Signs Stress May Be Affecting Your Cycle\n\n• Late period\n• Increased PMS symptoms\n• Mood swings\n• Fatigue\n• Trouble sleeping\n• Anxiety\n\n### What Can Help?\n\n• Prioritize sleep\n• Practice relaxation techniques\n• Exercise regularly\n• Maintain healthy eating habits\n• Consider stress-management strategies\n\n### Key Takeaway\n\nA stressful month can easily delay ovulation and push your period back by days or even weeks."
+,
+  "colorHex": "#A26BFF"
+},
+{
+  "id": "late_period_unprotected_sex",
+  "title": "Late Period After Unprotected Sex",
+  "category": "Late Period",
+  "imageUrl": "",
+  "description": "When a late period could be related to pregnancy.",
+  "fullContent": "### Should You Be Concerned?\n\nIf you've had unprotected sex and your period is late, pregnancy is one possibility that should be considered.\n\n### Early Pregnancy Symptoms\n\nSome people notice:\n\n• Missed period\n• Breast tenderness\n• Nausea\n• Fatigue\n• Frequent urination\n• Food aversions\n\n### When To Take A Pregnancy Test\n\nPregnancy tests are most accurate after a missed period. Testing too early may lead to a false negative result.\n\n### Other Possible Causes\n\nEven if pregnancy tests are negative, other factors can delay menstruation:\n\n• Stress\n• Illness\n• Hormonal changes\n• PCOS\n• Thyroid disorders\n\n### When To Seek Medical Advice\n\nIf your period remains absent and pregnancy tests remain negative, consider consulting a healthcare professional.\n\n### Key Takeaway\n\nA late period after unprotected sex deserves attention, but pregnancy is not the only possible explanation."
+,
+  "colorHex": "#FF6E8C"
+},
+{
+  "id": "late_period_with_cramps",
+  "title": "Late Period But Having Cramps?",
+  "category": "Late Period",
+  "imageUrl": "",
+  "description": "Understanding cramps without bleeding.",
+  "fullContent": "### Why Am I Cramping But Not Bleeding?\n\nMany people experience cramps even when their period hasn't started.\n\n### Possible Causes\n\n• Period is about to start\n• Delayed ovulation\n• Early pregnancy\n• Ovulation pain\n• Digestive issues\n• Endometriosis\n• Adenomyosis\n• Ovarian cysts\n\n### Could Pregnancy Cause Cramping?\n\nSome people experience mild cramping during early pregnancy as the uterus begins to adapt.\n\n### When To See A Doctor\n\nSeek medical attention if cramps are:\n\n• Severe\n• Sudden\n• Accompanied by fever\n• Associated with heavy bleeding\n• Persistent for several days\n\n### Key Takeaway\n\nCramps without a period can occur for many reasons, ranging from normal cycle changes to underlying medical conditions."
+,
+  "colorHex": "#FF9271"
+},
+{
+  "id": "late_period_birth_control",
+  "title": "Late Period After Birth Control Changes",
+  "category": "Late Period",
+  "imageUrl": "",
+  "description": "Hormonal contraceptives can affect cycle timing.",
+  "fullContent": "### Is This Normal?\n\nYes. Changes in birth control are one of the most common reasons for cycle irregularities.\n\n### Why It Happens\n\nHormonal contraceptives affect estrogen and progesterone levels. When starting, stopping, or switching methods, the body may need time to adjust.\n\n### Common Changes\n\n• Late periods\n• Missed periods\n• Spotting\n• Lighter bleeding\n• Heavier bleeding temporarily\n\n### How Long Can It Last?\n\nMany people regain their typical cycle within a few months, though timing varies.\n\n### When To Contact A Doctor\n\nSeek medical advice if:\n\n• Periods remain absent for several months\n• You have severe symptoms\n• You suspect pregnancy\n\n### Key Takeaway\n\nBirth control changes often temporarily affect menstrual timing and do not necessarily indicate a health problem."
+,
+  "colorHex": "#7A8DFF"
+},
+{
+  "id": "late_period_white_discharge",
+  "title": "Late Period And White Discharge",
+  "category": "Late Period",
+  "imageUrl": "",
+  "description": "What cervical discharge may indicate when your period is delayed.",
+  "fullContent": "### Is White Discharge Normal?\n\nIn many cases, yes.\n\nThe cervix naturally produces discharge throughout the menstrual cycle. Hormonal fluctuations can change its amount and appearance.\n\n### Possible Causes\n\n• Approaching menstruation\n• Delayed ovulation\n• Early pregnancy\n• Hormonal changes\n• Birth control use\n\n### Pregnancy Considerations\n\nSome individuals notice increased creamy white discharge during early pregnancy due to rising hormone levels.\n\n### When To Seek Medical Advice\n\nConsult a healthcare professional if discharge is accompanied by:\n\n• Strong odor\n• Itching\n• Burning\n• Green or yellow color\n• Pelvic pain\n\n### Key Takeaway\n\nWhite discharge alongside a late period is often linked to normal hormonal changes but can occasionally occur during early pregnancy."
+,
+  "colorHex": "#6EC6FF"
 }
 ]
