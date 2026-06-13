@@ -1,20 +1,22 @@
 [
   {
-    "id": "cramps_checker",
-    "title": "Severe Cramps?",
-    "category": "Symptom Checker",
-    "imageUrl": "https://images.unsplash.com/photo-1516549655169-df83a0774514",
-    "description": "When to worry about period pain.",
-    "fullContent": "### Understanding Pain...\n\nDetailed medical advice goes here...",
-    "colorHex": "#FF5C8D"
-  },
+  "id": "cramps_checker",
+  "title": "Severe Cramps?",
+  "category": "Symptom Checker",
+  "imageUrl": "https://images.unsplash.com/photo-1516549655169-df83a0774514",
+  "description": "When to worry about period pain.",
+  "fullContent": "### Understanding Period Cramps\n\nPeriod cramps, medically known as dysmenorrhea, occur when the uterus contracts to shed its lining during menstruation. Mild to moderate cramping is common and usually begins shortly before or during the first few days of a period.\n\n### What Is Considered Normal?\n\nNormal period cramps typically:\n\n• Start 1–2 days before or during menstruation\n• Improve after the first few days of bleeding\n• Respond to rest, heat, hydration, or over-the-counter pain relief\n• Do not significantly interfere with daily activities\n\nMany people experience cramping in the lower abdomen, lower back, hips, or thighs.\n\n### Signs Your Cramps May Be More Serious\n\nWhile painful periods are common, severe pain should never be ignored.\n\nYou should consider speaking with a healthcare professional if:\n\n• Pain prevents you from attending school, work, or daily activities\n• Pain is worsening each month\n• Pain does not improve with medication\n• You experience heavy bleeding or large blood clots\n• Pain occurs outside of your menstrual period\n• You experience pain during intercourse\n• You have unexplained pelvic pain throughout the month\n\n### Conditions That Can Cause Severe Period Pain\n\n#### Endometriosis\n\nEndometriosis occurs when tissue similar to the uterine lining grows outside the uterus. This condition can cause severe cramps, pelvic pain, fatigue, and fertility challenges.\n\n#### Adenomyosis\n\nAdenomyosis occurs when uterine lining tissue grows into the muscular wall of the uterus. It can lead to heavy bleeding and extremely painful periods.\n\n#### Fibroids\n\nFibroids are non-cancerous growths within or around the uterus. Depending on their size and location, they may contribute to heavy bleeding and severe cramps.\n\n#### Pelvic Inflammatory Disease (PID)\n\nCertain infections affecting reproductive organs can cause pelvic pain, abnormal discharge, fever, and painful menstruation.\n\n### What Can Help?\n\nMany people find relief through:\n\n• Applying a heating pad to the lower abdomen\n• Gentle stretching or yoga\n• Light exercise such as walking\n• Adequate sleep\n• Staying hydrated\n• Managing stress levels\n• Tracking symptoms in a menstrual health app\n\n### When To Seek Urgent Medical Care\n\nSeek immediate medical attention if you experience:\n\n• Sudden severe pelvic pain\n• Fever with pelvic pain\n• Fainting or dizziness\n• Very heavy bleeding that soaks through pads rapidly\n• Severe pain during pregnancy or suspected pregnancy\n\n### Key Takeaway\n\nMild cramps are common, but severe pain is not something you simply have to tolerate. Understanding your symptoms and seeking medical advice when necessary can help identify underlying conditions and improve quality of life."
+,
+  "colorHex": "#FF5C8D"
+},
   {
-    "id": "late_stress",
-    "title": "Stress & Your Period",
-    "category": "Late Period",
-    "imageUrl": "https://images.unsplash.com/photo-1506126613408-eca07ce68773",
-    "description": "How cortisol delays your cycle.",
-    "fullContent": "### The Cortisol Link...\n\nDetailed explanation goes here...",
-    "colorHex": "#9C6BFF"
-  }
+  "id": "late_stress",
+  "title": "Stress & Your Period",
+  "category": "Late Period",
+  "imageUrl": "https://images.unsplash.com/photo-1506126613408-eca07ce68773",
+  "description": "How cortisol delays your cycle.",
+  "fullContent": "### Can Stress Really Delay A Period?\n\nYes. Stress is one of the most common reasons for a delayed or missed period.\n\nWhen the body experiences physical or emotional stress, it releases hormones designed to help manage challenging situations. While these hormones are important for survival, they can sometimes interfere with the delicate hormonal balance that regulates the menstrual cycle.\n\n### Understanding Cortisol\n\nCortisol is often called the 'stress hormone.' It is produced by the adrenal glands whenever the brain detects stress.\n\nShort-term increases in cortisol are normal and healthy. However, when stress becomes chronic, cortisol levels may remain elevated for extended periods.\n\n### How Stress Affects Your Cycle\n\nThe menstrual cycle is controlled by communication between the brain, ovaries, and reproductive hormones.\n\nHigh stress levels can influence the hypothalamus, a region of the brain responsible for regulating reproductive hormones.\n\nAs a result:\n\n• Ovulation may occur later than expected\n• Ovulation may not occur at all during that cycle\n• Menstruation may be delayed\n• Cycles may become irregular\n\nEven a delay in ovulation of several days can push your expected period date further into the future.\n\n### Common Sources Of Stress\n\nStress can come from many areas of life, including:\n\n• Exams and academic pressure\n• Work-related challenges\n• Relationship difficulties\n• Financial concerns\n• Family issues\n• Major life changes\n• Illness or injury\n• Poor sleep habits\n\nThe body often responds similarly regardless of the source.\n\n### Signs Stress May Be Affecting Your Cycle\n\nYou may notice:\n\n• A late period\n• Missed periods\n• Increased PMS symptoms\n• Fatigue\n• Mood changes\n• Anxiety\n• Headaches\n• Difficulty sleeping\n\n### Can Anxiety Delay A Period?\n\nAnxiety and chronic stress frequently overlap. Persistent anxiety may contribute to hormonal disruption that affects ovulation and menstrual timing.\n\n### What Can Help?\n\nManaging stress may help support hormonal balance.\n\nHelpful strategies include:\n\n• Prioritizing quality sleep\n• Regular physical activity\n• Deep breathing exercises\n• Meditation or mindfulness\n• Journaling thoughts and emotions\n• Spending time outdoors\n• Maintaining social connections\n• Seeking professional mental health support when needed\n\n### When To Take A Pregnancy Test\n\nIf there is any possibility of pregnancy and your period is late, consider taking a pregnancy test according to the instructions provided with the test.\n\n### When To See A Doctor\n\nYou should consider consulting a healthcare professional if:\n\n• Your period has been absent for several months\n• Your cycles suddenly become very irregular\n• You experience severe pain\n• You have symptoms of hormonal disorders such as PCOS or thyroid disease\n\n### Key Takeaway\n\nStress affects far more than mood. Because reproductive hormones are closely connected to the brain's stress response system, emotional and physical stress can delay ovulation and cause late or missed periods. Learning healthy stress-management habits benefits both mental wellbeing and reproductive health."
+,
+  "colorHex": "#9C6BFF"
+}
 ]
