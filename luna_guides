@@ -1,0 +1,20 @@
+[
+  {
+    "id": "cramps_checker",
+    "title": "Severe Cramps?",
+    "category": "Symptom Checker",
+    "imageUrl": "https://images.unsplash.com/photo-1516549655169-df83a0774514",
+    "description": "When to worry about period pain.",
+    "fullContent": "### Understanding Pain...\n\nDetailed medical advice goes here...",
+    "colorHex": "#FF5C8D"
+  },
+  {
+    "id": "late_stress",
+    "title": "Stress & Your Period",
+    "category": "Late Period",
+    "imageUrl": "https://images.unsplash.com/photo-1506126613408-eca07ce68773",
+    "description": "How cortisol delays your cycle.",
+    "fullContent": "### The Cortisol Link...\n\nDetailed explanation goes here...",
+    "colorHex": "#9C6BFF"
+  }
+]
