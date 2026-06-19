@@ -2093,6 +2093,11 @@
       ],
       "foods": [],
       "doctorWarning": ""
+    },
+    {
+      "id": "sleep",
+      "keywords": ["sleep", "insomnia"],
+      "description": "You slept [SLEEP] hours recently."
     }
   ]
 }
