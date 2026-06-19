@@ -10,6 +10,7 @@
         "cramps"
       ],
       "description": "Menstrual cramps are common and are often caused by uterine contractions during the [PHASE] phase.",
+      "personalized": true,
       "tips": [
         "Use a heating pad",
         "Try gentle stretching",
@@ -34,6 +35,7 @@
         "drained"
       ],
       "description": "Feeling tired during the [PHASE] phase is common due to hormonal fluctuations and changing energy demands.",
+      "personalized": true,
       "tips": [
         "Get 7-9 hours of sleep",
         "Take short rest breaks",
@@ -58,6 +60,7 @@
         "water retention"
       ],
       "description": "Bloating is often caused by hormonal changes and temporary water retention during the [PHASE] phase.",
+      "personalized": true,
       "tips": [
         "Reduce salt intake",
         "Drink more water",
@@ -82,6 +85,7 @@
         "spots"
       ],
       "description": "Hormonal changes during the [PHASE] phase can increase oil production and contribute to breakouts.",
+      "personalized": true,
       "tips": [
         "Cleanse gently twice daily",
         "Avoid touching your face",
@@ -107,6 +111,7 @@
         "appetite"
       ],
       "description": "Food cravings are common during the [PHASE] phase due to hormonal and metabolic changes.",
+      "personalized": true,
       "tips": [
         "Eat balanced meals",
         "Include protein in snacks",
@@ -129,6 +134,7 @@
         "throbbing"
       ],
       "description": "Hormonal headaches can occur during the [PHASE] phase as estrogen levels fluctuate.",
+      "personalized": true,
       "tips": [
         "Stay hydrated",
         "Rest in a dark room",
@@ -152,6 +158,7 @@
         "queasy"
       ],
       "description": "Nausea may occur during the [PHASE] phase due to hormonal changes affecting digestion.",
+      "personalized": true,
       "tips": [
         "Eat small frequent meals",
         "Sip water slowly",
@@ -176,6 +183,7 @@
         "positive"
       ],
       "description": "Feeling positive and energetic during the [PHASE] phase is a wonderful sign that your body and mind are in sync.",
+      "personalized": true,
       "tips": [
         "Use this energy for important tasks",
         "Stay active",
@@ -198,6 +206,7 @@
         "blue"
       ],
       "description": "Hormonal fluctuations during the [PHASE] phase can affect mood and emotional sensitivity.",
+      "personalized": true,
       "tips": [
         "Practice self-care",
         "Take a short walk",
@@ -221,6 +230,7 @@
         "restless"
       ],
       "description": "Hormonal changes can sometimes increase feelings of anxiety during the [PHASE] phase.",
+      "personalized": true,
       "tips": [
         "Practice deep breathing",
         "Limit caffeine",
@@ -243,6 +253,7 @@
         "overwhelmed"
       ],
       "description": "High stress levels can influence hormones and even affect your cycle timing.",
+      "personalized": true,
       "tips": [
         "Take regular breaks",
         "Practice mindfulness",
@@ -266,6 +277,7 @@
         "frustrated"
       ],
       "description": "Rapid mood changes can occur during the [PHASE] phase due to hormone fluctuations.",
+      "personalized": true,
       "tips": [
         "Get enough rest",
         "Avoid skipping meals",
@@ -287,6 +299,7 @@
         "before period"
       ],
       "description": "PMS symptoms commonly appear during the luteal phase as hormone levels change before menstruation.",
+      "personalized": true,
       "tips": [
         "Exercise regularly",
         "Reduce excess salt",
@@ -309,6 +322,7 @@
         "release egg"
       ],
       "description": "Ovulation occurs when an ovary releases an egg. This is typically the most fertile time of your cycle.",
+      "personalized": true,
       "tips": [
         "Track cervical mucus changes",
         "Stay hydrated",
@@ -333,6 +347,7 @@
         "trying to conceive"
       ],
       "description": "Fertility is generally highest around ovulation when an egg is available for fertilization.",
+      "personalized": true,
       "tips": [
         "Track ovulation signs",
         "Maintain a healthy lifestyle",
@@ -356,6 +371,7 @@
         "expecting"
       ],
       "description": "Some early pregnancy symptoms can resemble PMS symptoms, including fatigue, breast tenderness, and nausea.",
+      "personalized": true,
       "tips": [
         "Take a pregnancy test if your period is late",
         "Track symptoms carefully",
@@ -380,6 +396,7 @@
         "behind"
       ],
       "description": "A delayed period can be caused by stress, illness, travel, weight changes, or pregnancy.",
+      "personalized": true,
       "tips": [
         "Track your cycle",
         "Manage stress",
@@ -402,6 +419,7 @@
         "discharge blood"
       ],
       "description": "Light spotting can occur at various times during the cycle and is often harmless.",
+      "personalized": true,
       "tips": [
         "Track when spotting occurs",
         "Monitor flow changes",
@@ -425,6 +443,7 @@
         "dry"
       ],
       "description": "Vaginal discharge naturally changes throughout the menstrual cycle and can indicate fertility patterns.",
+      "personalized": true,
       "tips": [
         "Monitor color and texture",
         "Track cycle changes",
@@ -448,6 +467,7 @@
         "chest"
       ],
       "description": "Breast tenderness is common during hormonal shifts, especially before menstruation.",
+      "personalized": true,
       "tips": [
         "Wear a supportive bra",
         "Reduce caffeine intake",
@@ -470,6 +490,7 @@
         "intimacy"
       ],
       "description": "Sex drive naturally changes throughout the cycle and often increases around ovulation.",
+      "personalized": true,
       "tips": [
         "Listen to your body's signals",
         "Communicate openly with your partner",
@@ -493,6 +514,7 @@
         "healthy eating"
       ],
       "description": "Nutrition needs can vary throughout the [PHASE] phase. Eating balanced meals helps support hormone health and energy levels.",
+      "personalized": true,
       "tips": [
         "Eat regular meals",
         "Include protein with every meal",
@@ -517,6 +539,7 @@
         "thirsty"
       ],
       "description": "Proper hydration helps support energy, digestion, skin health, and overall wellness during the [PHASE] phase.",
+      "personalized": true,
       "tips": [
         "Aim for 8-10 glasses of water daily",
         "Carry a water bottle",
@@ -540,6 +563,7 @@
         "restless"
       ],
       "description": "Hormonal changes during the [PHASE] phase can affect sleep quality and energy levels.",
+      "personalized": true,
       "tips": [
         "Keep a consistent sleep schedule",
         "Limit screen time before bed",
@@ -565,6 +589,7 @@
         "fitness"
       ],
       "description": "Exercise can improve mood, circulation, and energy throughout the [PHASE] phase.",
+      "personalized": true,
       "tips": [
         "Listen to your body",
         "Choose activities you enjoy",
@@ -588,6 +613,7 @@
         "meat"
       ],
       "description": "Iron supports healthy red blood cells and energy production, especially during menstruation.",
+      "personalized": true,
       "tips": [
         "Pair iron-rich foods with vitamin C",
         "Eat a balanced diet",
@@ -610,6 +636,7 @@
         "energy drink"
       ],
       "description": "Caffeine affects everyone differently and may influence sleep, anxiety, or certain cycle symptoms.",
+      "personalized": true,
       "tips": [
         "Monitor how caffeine affects you",
         "Avoid caffeine close to bedtime",
@@ -631,6 +658,7 @@
         "drink"
       ],
       "description": "Alcohol can affect hydration, sleep quality, and overall wellness during the [PHASE] phase.",
+      "personalized": true,
       "tips": [
         "Drink water alongside alcoholic beverages",
         "Avoid excessive consumption",
@@ -653,6 +681,7 @@
         "b6"
       ],
       "description": "Certain vitamins and minerals may help support overall wellness and menstrual health.",
+      "personalized": true,
       "tips": [
         "Follow recommended dosages",
         "Discuss supplements with a healthcare professional",
@@ -678,6 +707,7 @@
         "drained"
       ],
       "description": "Feeling tired during the [PHASE] phase is common and may be influenced by hormones, sleep, hydration, and nutrition.",
+      "personalized": true,
       "tips": [
         "Get adequate sleep",
         "Stay hydrated",
@@ -702,6 +732,7 @@
         "vomiting"
       ],
       "description": "Nausea can occur during the [PHASE] phase due to hormonal fluctuations and prostaglandin activity.",
+      "personalized": true,
       "tips": [
         "Eat small frequent meals",
         "Sip water slowly",
@@ -725,6 +756,7 @@
         "can't poop"
       ],
       "description": "Hormonal changes during the [PHASE] phase can slow digestion and contribute to constipation.",
+      "personalized": true,
       "tips": [
         "Drink more water",
         "Increase fiber intake",
@@ -748,6 +780,7 @@
         "frequent bowel movement"
       ],
       "description": "Some people experience diarrhea during menstruation because prostaglandins can affect the digestive system.",
+      "personalized": true,
       "tips": [
         "Stay hydrated",
         "Eat bland foods",
@@ -771,6 +804,7 @@
         "digestive pain"
       ],
       "description": "Digestive discomfort can occur during the [PHASE] phase due to hormonal and gastrointestinal changes.",
+      "personalized": true,
       "tips": [
         "Eat smaller meals",
         "Stay hydrated",
@@ -794,6 +828,7 @@
         "burping"
       ],
       "description": "Hormonal fluctuations during the [PHASE] phase can contribute to bloating and increased gas.",
+      "personalized": true,
       "tips": [
         "Eat slowly",
         "Avoid carbonated drinks",
@@ -816,6 +851,7 @@
         "burning chest"
       ],
       "description": "Digestive changes during the [PHASE] phase can sometimes increase indigestion or acid reflux symptoms.",
+      "personalized": true,
       "tips": [
         "Avoid lying down after meals",
         "Eat smaller portions",
@@ -838,6 +874,7 @@
         "can't eat"
       ],
       "description": "Hormonal changes, nausea, or stress during the [PHASE] phase may temporarily reduce appetite.",
+      "personalized": true,
       "tips": [
         "Eat small meals",
         "Stay hydrated",
@@ -859,6 +896,7 @@
         "polycystic ovary syndrome"
       ],
       "description": "PCOS (Polycystic Ovary Syndrome) is a hormonal condition that can affect periods, ovulation, weight, skin, and fertility.",
+      "personalized": true,
       "tips": [
         "Track your cycle regularly",
         "Maintain a balanced diet",
@@ -880,6 +918,7 @@
         "polycystic ovarian disease"
       ],
       "description": "PCOD is a condition where the ovaries may develop multiple immature follicles, affecting hormone balance and menstrual cycles.",
+      "personalized": true,
       "tips": [
         "Track periods carefully",
         "Maintain a healthy lifestyle",
@@ -900,6 +939,7 @@
         "endo"
       ],
       "description": "Endometriosis occurs when tissue similar to the uterine lining grows outside the uterus and may cause significant pain.",
+      "personalized": true,
       "tips": [
         "Track pain patterns",
         "Use heat therapy",
@@ -921,6 +961,7 @@
         "hormones"
       ],
       "description": "Hormonal imbalances can affect mood, energy, skin, weight, and menstrual cycle regularity.",
+      "personalized": true,
       "tips": [
         "Prioritize sleep",
         "Manage stress",
@@ -943,6 +984,7 @@
         "period irregular"
       ],
       "description": "Irregular periods can be caused by stress, hormonal changes, PCOS, thyroid issues, or other health conditions.",
+      "personalized": true,
       "tips": [
         "Track your cycle",
         "Maintain healthy habits",
@@ -965,6 +1007,7 @@
         "menorrhagia"
       ],
       "description": "Heavy menstrual bleeding may occur for many reasons, including hormonal changes and certain medical conditions.",
+      "personalized": true,
       "tips": [
         "Track flow intensity",
         "Stay hydrated",
@@ -986,6 +1029,7 @@
         "lower pelvic pain"
       ],
       "description": "Pelvic pain can occur during different phases of the cycle and may have several possible causes.",
+      "personalized": true,
       "tips": [
         "Track timing and severity",
         "Use gentle heat",
@@ -1010,6 +1054,7 @@
         "good evening"
       ],
       "description": "Hello! I'm Luna, your personal cycle and wellness companion. I'm here to help you understand your body and feel your best.",
+      "personalized": true,
       "tips": [
         "Ask about symptoms",
         "Ask about your current phase",
@@ -1028,6 +1073,7 @@
         "what is luna"
       ],
       "description": "I'm Luna, your AI wellness companion. I can help explain symptoms, cycle phases, nutrition, hydration, sleep, and general menstrual wellness.",
+      "personalized": true,
       "tips": [
         "Track symptoms regularly",
         "Log water intake",
@@ -1045,6 +1091,7 @@
         "you doing okay"
       ],
       "description": "I'm doing great and ready to help. My favorite thing is helping you better understand your body and cycle.",
+      "personalized": true,
       "tips": [],
       "foods": [],
       "doctorWarning": ""
@@ -1058,6 +1105,7 @@
         "how to use"
       ],
       "description": "I can answer questions about periods, symptoms, PMS, ovulation, fertility, nutrition, hydration, exercise, sleep, and emotional wellness.",
+      "personalized": true,
       "tips": [
         "Ask 'Why am I tired?'",
         "Ask 'What should I eat?'",
@@ -1077,6 +1125,7 @@
         "privacy"
       ],
       "description": "Your privacy matters. Your health information should remain personal and secure within the app.",
+      "personalized": true,
       "tips": [
         "Use a screen lock",
         "Keep your app updated",
@@ -1094,6 +1143,7 @@
         "good bot"
       ],
       "description": "You're very welcome. I'm always here whenever you need guidance or support.",
+      "personalized": true,
       "tips": [
         "Continue tracking your wellness",
         "Stay hydrated",
@@ -1111,6 +1161,7 @@
         "clinic"
       ],
       "description": "Healthcare professionals are the best source for diagnosis and treatment of medical conditions.",
+      "personalized": true,
       "tips": [
         "Track symptoms before appointments",
         "Write down questions",
@@ -1128,6 +1179,7 @@
         "extreme bleeding"
       ],
       "description": "Some symptoms require immediate medical attention and should not be managed through self-care alone.",
+      "personalized": true,
       "tips": [
         "Seek medical help immediately",
         "Contact emergency services if necessary",
@@ -1145,6 +1197,7 @@
         "on my period"
       ],
       "description": "The Menstrual Phase is the beginning of your cycle when the uterine lining sheds. Energy levels may be lower and cramps, fatigue, and mood changes are common.",
+      "personalized": true,
       "tips": [
         "Prioritize rest",
         "Stay hydrated",
@@ -1167,6 +1220,7 @@
         "after period"
       ],
       "description": "The Follicular Phase begins after menstruation. Estrogen rises, energy often improves, and many people feel more motivated and productive.",
+      "personalized": true,
       "tips": [
         "Start new projects",
         "Exercise more intensely if comfortable",
@@ -1189,6 +1243,7 @@
         "ovulation"
       ],
       "description": "Ovulation is when an egg is released from the ovary. Fertility is highest during this phase and energy may peak.",
+      "personalized": true,
       "tips": [
         "Track fertility signs",
         "Stay hydrated",
@@ -1211,6 +1266,7 @@
         "premenstrual phase"
       ],
       "description": "The Luteal Phase occurs after ovulation and before menstruation. PMS symptoms, cravings, bloating, and mood changes are more common.",
+      "personalized": true,
       "tips": [
         "Prioritize sleep",
         "Reduce excess salt",
@@ -1234,6 +1290,7 @@
         "why am i energetic"
       ],
       "description": "Energy levels naturally change throughout the menstrual cycle due to hormone fluctuations.",
+      "personalized": true,
       "tips": [
         "Track your energy daily",
         "Adjust workouts accordingly",
@@ -1257,6 +1314,7 @@
         "why am i moody"
       ],
       "description": "Hormonal fluctuations throughout the cycle can influence mood, motivation, and emotional sensitivity.",
+      "personalized": true,
       "tips": [
         "Practice self-care",
         "Get enough sleep",
@@ -1278,6 +1336,7 @@
         "am i hydrated"
       ],
       "description": "I can review your hydration data and provide personalized guidance.",
+      "personalized": true,
       "tips": [],
       "foods": [],
       "doctorWarning": ""
@@ -1292,6 +1351,7 @@
         "journey"
       ],
       "description": "Travel, time-zone changes, and disrupted routines can temporarily affect your cycle.",
+      "personalized": true,
       "tips": [
         "Stay hydrated while traveling",
         "Maintain sleep schedules when possible",
@@ -1317,6 +1377,7 @@
         "focus"
       ],
       "description": "Hormonal changes throughout the cycle can affect focus, memory, and productivity.",
+      "personalized": true,
       "tips": [
         "Take short breaks",
         "Stay hydrated",
@@ -1341,6 +1402,7 @@
         "pamper"
       ],
       "description": "Self-care can help improve both physical and emotional wellbeing during every phase of your cycle.",
+      "personalized": true,
       "tips": [
         "Take a warm bath",
         "Practice mindfulness",
@@ -1363,6 +1425,7 @@
         "productive"
       ],
       "description": "Motivation naturally changes throughout the menstrual cycle as hormone levels fluctuate.",
+      "personalized": true,
       "tips": [
         "Break tasks into small steps",
         "Celebrate progress",
@@ -1385,6 +1448,7 @@
         "beauty"
       ],
       "description": "Hormones can influence skin appearance, oil production, and overall glow throughout the cycle.",
+      "personalized": true,
       "tips": [
         "Stay hydrated",
         "Use gentle skincare",
@@ -1409,6 +1473,7 @@
         "dry hair"
       ],
       "description": "Hormonal fluctuations can affect hair texture, oil production, and shedding patterns.",
+      "personalized": true,
       "tips": [
         "Use gentle hair care",
         "Stay hydrated",
@@ -1431,6 +1496,7 @@
         "sanitary pad"
       ],
       "description": "Pads are external menstrual products that absorb menstrual flow.",
+      "personalized": true,
       "tips": [
         "Change regularly",
         "Choose the correct absorbency",
@@ -1446,6 +1512,7 @@
         "tampons"
       ],
       "description": "Tampons are internal menstrual products used to absorb menstrual flow.",
+      "personalized": true,
       "tips": [
         "Follow product instructions",
         "Change regularly",
@@ -1462,6 +1529,7 @@
         "period cup"
       ],
       "description": "Menstrual cups are reusable products designed to collect menstrual flow.",
+      "personalized": true,
       "tips": [
         "Clean according to instructions",
         "Practice insertion techniques",
@@ -1479,6 +1547,7 @@
         "contraceptive"
       ],
       "description": "Birth control methods help prevent pregnancy and may also affect menstrual cycles, symptoms, and hormone levels.",
+      "personalized": true,
       "tips": [
         "Use contraception consistently",
         "Follow instructions carefully",
@@ -1497,6 +1566,7 @@
         "contraceptive pill"
       ],
       "description": "Birth control pills contain hormones that help prevent pregnancy and may regulate periods.",
+      "personalized": true,
       "tips": [
         "Take pills at the same time daily",
         "Set reminders",
@@ -1515,6 +1585,7 @@
         "missed contraceptive"
       ],
       "description": "Missing a birth control pill may reduce effectiveness depending on the type of pill and timing.",
+      "personalized": true,
       "tips": [
         "Check your pill instructions",
         "Follow the missed-pill guidance",
@@ -1532,6 +1603,7 @@
         "protection"
       ],
       "description": "Condoms help reduce the risk of pregnancy and sexually transmitted infections when used correctly.",
+      "personalized": true,
       "tips": [
         "Check expiration dates",
         "Use correctly every time",
@@ -1549,6 +1621,7 @@
         "intrauterine device"
       ],
       "description": "An IUD is a long-term contraceptive device placed in the uterus by a healthcare professional.",
+      "personalized": true,
       "tips": [
         "Attend follow-up appointments",
         "Monitor unusual symptoms",
@@ -1565,6 +1638,7 @@
         "arm implant"
       ],
       "description": "A contraceptive implant is a small device placed under the skin that releases hormones to prevent pregnancy.",
+      "personalized": true,
       "tips": [
         "Track side effects",
         "Attend follow-up appointments",
@@ -1582,6 +1656,7 @@
         "emergency pill"
       ],
       "description": "Emergency contraception can help reduce the chance of pregnancy after unprotected intercourse when used within the recommended timeframe.",
+      "personalized": true,
       "tips": [
         "Take it as soon as possible",
         "Read package instructions",
@@ -1599,6 +1674,7 @@
         "spotting on birth control"
       ],
       "description": "Light spotting or breakthrough bleeding can occur when starting or changing hormonal contraception.",
+      "personalized": true,
       "tips": [
         "Continue tracking symptoms",
         "Take medication consistently",
@@ -1618,6 +1694,7 @@
         "trying for pregnancy"
       ],
       "description": "Trying to conceive involves understanding ovulation, fertile windows, and maintaining healthy lifestyle habits.",
+      "personalized": true,
       "tips": [
         "Track ovulation",
         "Monitor cervical mucus",
@@ -1641,6 +1718,7 @@
         "fertility window"
       ],
       "description": "The fertile window is the period when pregnancy is most likely, typically around ovulation.",
+      "personalized": true,
       "tips": [
         "Track cycle dates",
         "Monitor ovulation signs",
@@ -1659,6 +1737,7 @@
         "ovulating"
       ],
       "description": "Common ovulation signs include stretchy cervical mucus, increased libido, mild pelvic discomfort, and slight temperature changes.",
+      "personalized": true,
       "tips": [
         "Track symptoms daily",
         "Observe cervical mucus",
@@ -1677,6 +1756,7 @@
         "pregnancy signs"
       ],
       "description": "Early pregnancy symptoms may include a missed period, fatigue, nausea, breast tenderness, and increased urination.",
+      "personalized": true,
       "tips": [
         "Track symptoms",
         "Take a pregnancy test if appropriate",
@@ -1695,6 +1775,7 @@
         "when to test"
       ],
       "description": "Pregnancy tests are generally most accurate after a missed period.",
+      "personalized": true,
       "tips": [
         "Follow test instructions carefully",
         "Use first morning urine if recommended",
@@ -1712,6 +1793,7 @@
         "implantation symptoms"
       ],
       "description": "Implantation occurs when a fertilized egg attaches to the uterine lining. Some people may notice light spotting.",
+      "personalized": true,
       "tips": [
         "Track timing carefully",
         "Monitor symptoms",
@@ -1728,6 +1810,7 @@
         "nausea pregnant"
       ],
       "description": "Nausea and vomiting are common during early pregnancy and can occur at any time of day.",
+      "personalized": true,
       "tips": [
         "Eat small meals",
         "Stay hydrated",
@@ -1749,6 +1832,7 @@
         "what to eat pregnant"
       ],
       "description": "Good nutrition supports both maternal health and fetal development during pregnancy.",
+      "personalized": true,
       "tips": [
         "Eat balanced meals",
         "Stay hydrated",
@@ -1772,6 +1856,7 @@
         "first menstruation"
       ],
       "description": "Your first period is a normal part of puberty and signals that your reproductive system is maturing.",
+      "personalized": true,
       "tips": [
         "Carry period products",
         "Track your cycle",
@@ -1793,6 +1878,7 @@
         "body changes"
       ],
       "description": "Puberty causes physical and emotional changes as hormones increase and the body develops.",
+      "personalized": true,
       "tips": [
         "Practice good hygiene",
         "Ask questions when unsure",
@@ -1815,6 +1901,7 @@
         "started period at school"
       ],
       "description": "Having your period at school can feel stressful, but it's a common experience.",
+      "personalized": true,
       "tips": [
         "Keep spare pads available",
         "Wear dark-colored clothing if concerned",
@@ -1832,6 +1919,7 @@
         "period swimming"
       ],
       "description": "Yes, you can swim during your period. Many people continue normal activities while menstruating.",
+      "personalized": true,
       "tips": [
         "Use appropriate menstrual products",
         "Stay hydrated",
@@ -1848,6 +1936,7 @@
         "gym on period"
       ],
       "description": "Exercise during your period is generally safe and may help improve mood and reduce discomfort.",
+      "personalized": true,
       "tips": [
         "Adjust intensity if needed",
         "Stay hydrated",
@@ -1863,6 +1952,7 @@
         "hair wash period"
       ],
       "description": "Washing your hair during your period is completely safe and does not affect menstrual flow.",
+      "personalized": true,
       "tips": [
         "Maintain normal hygiene routines",
         "Use products that suit your hair type"
@@ -1877,6 +1967,7 @@
         "get pregnant on period"
       ],
       "description": "Pregnancy is less likely during menstruation, but it is still possible depending on cycle timing.",
+      "personalized": true,
       "tips": [
         "Use reliable contraception if avoiding pregnancy",
         "Track your cycle carefully"
@@ -1891,6 +1982,7 @@
         "peri menopause"
       ],
       "description": "Perimenopause is the transition period before menopause when hormone levels begin to fluctuate.",
+      "personalized": true,
       "tips": [
         "Track symptoms",
         "Stay active",
@@ -1910,6 +2002,7 @@
         "menopausal"
       ],
       "description": "Menopause occurs when menstrual periods permanently stop due to natural hormonal changes.",
+      "personalized": true,
       "tips": [
         "Stay physically active",
         "Eat nutrient-rich foods",
@@ -1928,6 +2021,7 @@
         "hot flushes"
       ],
       "description": "Hot flashes are sudden feelings of warmth that commonly occur during menopause.",
+      "personalized": true,
       "tips": [
         "Dress in layers",
         "Stay hydrated",
@@ -1943,6 +2037,7 @@
         "sweating at night"
       ],
       "description": "Night sweats are episodes of excessive sweating during sleep and can occur during menopause.",
+      "personalized": true,
       "tips": [
         "Keep the bedroom cool",
         "Use breathable bedding",
@@ -1959,6 +2054,7 @@
         "pap test"
       ],
       "description": "A Pap smear is a screening test used to detect abnormal cervical cells.",
+      "personalized": true,
       "tips": [
         "Follow recommended screening schedules",
         "Discuss questions with your healthcare provider"
@@ -1974,6 +2070,7 @@
         "breast check"
       ],
       "description": "Breast self-awareness helps you notice changes that should be discussed with a healthcare professional.",
+      "personalized": true,
       "tips": [
         "Become familiar with your normal breast appearance.",
         "Report unusual changes"
@@ -1989,6 +2086,7 @@
         "women doctor"
       ],
       "description": "A gynecologist specializes in reproductive and women's health.",
+      "personalized": true,
       "tips": [
         "Track symptoms before appointments",
         "Prepare questions in advance"
