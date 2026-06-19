@@ -1,0 +1,1953 @@
+[
+{
+"id": "cramps",
+"keywords": ["pain", "ache", "backache", "abdominal"],
+"description": "Menstrual cramps are common and are often caused by uterine contractions during the [PHASE] phase.",
+"tips": [
+"Use a heating pad",
+"Try gentle stretching",
+"Take a warm bath",
+"Stay hydrated"
+],
+"foods": [
+"Dark chocolate",
+"Bananas",
+"Spinach"
+],
+"doctorWarning": "Seek medical advice if pain is severe, sudden, or interferes with daily activities."
+},
+{
+"id": "fatigue",
+"keywords": ["tired", "exhausted", "fatigue", "sleepy", "low energy", "drained"],
+"description": "Feeling tired during the [PHASE] phase is common due to hormonal fluctuations and changing energy demands.",
+"tips": [
+"Get 7-9 hours of sleep",
+"Take short rest breaks",
+"Stay hydrated",
+"Avoid excessive caffeine"
+],
+"foods": [
+"Eggs",
+"Beans",
+"Salmon",
+"Spinach"
+],
+"doctorWarning": "Consult a healthcare professional if fatigue is persistent or severe."
+},
+{
+"id": "bloating",
+"keywords": ["bloating", "heavy", "weight", "swelling", "water retention"],
+"description": "Bloating is often caused by hormonal changes and temporary water retention during the [PHASE] phase.",
+"tips": [
+"Reduce salt intake",
+"Drink more water",
+"Take a gentle walk",
+"Avoid processed foods"
+],
+"foods": [
+"Cucumber",
+"Watermelon",
+"Ginger tea"
+],
+"doctorWarning": "Seek medical advice if bloating becomes painful or unusually severe."
+},
+{
+"id": "acne",
+"keywords": ["acne", "pimples", "breakout", "skin", "oily", "spots"],
+"description": "Hormonal changes during the [PHASE] phase can increase oil production and contribute to breakouts.",
+"tips": [
+"Cleanse gently twice daily",
+"Avoid touching your face",
+"Stay hydrated",
+"Use non-comedogenic skincare"
+],
+"foods": [
+"Berries",
+"Leafy greens",
+"Nuts"
+],
+"doctorWarning": "Consult a dermatologist if acne becomes severe or persistent."
+},
+{
+"id": "cravings",
+"keywords": ["cravings", "hungry", "sugar", "chocolate", "salty", "food", "appetite"],
+"description": "Food cravings are common during the [PHASE] phase due to hormonal and metabolic changes.",
+"tips": [
+"Eat balanced meals",
+"Include protein in snacks",
+"Stay hydrated",
+"Avoid skipping meals"
+],
+"foods": [
+"Oats",
+"Nuts",
+"Greek yogurt"
+],
+"doctorWarning": ""
+},
+{
+"id": "headache",
+"keywords": ["headache", "migraine", "head", "throbbing"],
+"description": "Hormonal headaches can occur during the [PHASE] phase as estrogen levels fluctuate.",
+"tips": [
+"Stay hydrated",
+"Rest in a dark room",
+"Reduce screen time",
+"Maintain regular meals"
+],
+"foods": [
+"Leafy greens",
+"Water-rich fruits",
+"Nuts"
+],
+"doctorWarning": "Seek immediate medical care for sudden severe headaches or neurological symptoms."
+},
+{
+"id": "nausea",
+"keywords": ["nausea", "sick", "stomach", "vomit", "queasy"],
+"description": "Nausea may occur during the [PHASE] phase due to hormonal changes affecting digestion.",
+"tips": [
+"Eat small frequent meals",
+"Sip water slowly",
+"Rest when needed",
+"Try ginger tea"
+],
+"foods": [
+"Crackers",
+"Bananas",
+"Ginger"
+],
+"doctorWarning": "Consult a healthcare professional if nausea is severe or persistent."
+},
+{
+"id": "happy",
+"keywords": [
+"happy",
+"good",
+"great",
+"energetic",
+"motivated",
+"positive"
+],
+"description": "Feeling positive and energetic during the [PHASE] phase is a wonderful sign that your body and mind are in sync.",
+"tips": [
+"Use this energy for important tasks",
+"Stay active",
+"Spend time with friends",
+"Keep healthy routines"
+],
+"foods": [
+"Fresh fruits",
+"Whole grains",
+"Protein-rich foods"
+],
+"doctorWarning": ""
+},
+{
+"id": "sad",
+"keywords": [
+"sad",
+"cry",
+"emotional",
+"blue"
+],
+"description": "Hormonal fluctuations during the [PHASE] phase can affect mood and emotional sensitivity.",
+"tips": [
+"Practice self-care",
+"Take a short walk",
+"Journal your feelings",
+"Talk to someone you trust"
+],
+"foods": [
+"Dark chocolate",
+"Salmon",
+"Bananas"
+],
+"doctorWarning": "Seek professional support if sadness becomes persistent or overwhelming."
+},
+{
+"id": "anxiety",
+"keywords": [
+"anxious",
+"anxiety",
+"nervous",
+"uneasy",
+"restless"
+],
+"description": "Hormonal changes can sometimes increase feelings of anxiety during the [PHASE] phase.",
+"tips": [
+"Practice deep breathing",
+"Limit caffeine",
+"Try meditation",
+"Get adequate sleep"
+],
+"foods": [
+"Chamomile tea",
+"Nuts",
+"Leafy greens"
+],
+"doctorWarning": "Consult a healthcare professional if anxiety significantly impacts daily life."
+},
+{
+"id": "stress",
+"keywords": [
+"stress",
+"panic",
+"worry",
+"overwhelmed"
+],
+"description": "High stress levels can influence hormones and even affect your cycle timing.",
+"tips": [
+"Take regular breaks",
+"Practice mindfulness",
+"Exercise gently",
+"Focus on good sleep habits"
+],
+"foods": [
+"Oats",
+"Berries",
+"Green tea"
+],
+"doctorWarning": "Seek support if stress feels difficult to manage for long periods."
+},
+{
+"id": "mood_swings",
+"keywords": [
+"mood swings",
+"irritable",
+"angry",
+"grumpy",
+"frustrated"
+],
+"description": "Rapid mood changes can occur during the [PHASE] phase due to hormone fluctuations.",
+"tips": [
+"Get enough rest",
+"Avoid skipping meals",
+"Practice relaxation techniques",
+"Stay hydrated"
+],
+"foods": [
+"Complex carbohydrates",
+"Magnesium-rich foods",
+"Leafy greens"
+],
+"doctorWarning": "Consult a healthcare professional if mood changes become severe or disruptive."
+},
+{
+"id": "pms",
+"keywords": [
+"pms",
+"premenstrual",
+"before period"
+],
+"description": "PMS symptoms commonly appear during the luteal phase as hormone levels change before menstruation.",
+"tips": [
+"Exercise regularly",
+"Reduce excess salt",
+"Get enough sleep",
+"Manage stress"
+],
+"foods": [
+"Bananas",
+"Whole grains",
+"Yogurt"
+],
+"doctorWarning": "Speak with a healthcare professional if PMS symptoms become severe."
+},
+{
+"id": "ovulation",
+"keywords": [
+"ovulation",
+"egg",
+"ovulating",
+"release egg"
+],
+"description": "Ovulation occurs when an ovary releases an egg. This is typically the most fertile time of your cycle.",
+"tips": [
+"Track cervical mucus changes",
+"Stay hydrated",
+"Maintain healthy sleep habits",
+"Monitor cycle patterns"
+],
+"foods": [
+"Eggs",
+"Berries",
+"Leafy greens",
+"Fish"
+],
+"doctorWarning": "Consult a healthcare professional if you suspect ovulation issues or very irregular cycles."
+},
+{
+"id": "fertility",
+"keywords": [
+"fertility",
+"fertile",
+"conceive",
+"conception",
+"trying to conceive"
+],
+"description": "Fertility is generally highest around ovulation when an egg is available for fertilization.",
+"tips": [
+"Track ovulation signs",
+"Maintain a healthy lifestyle",
+"Reduce excessive stress",
+"Get adequate sleep"
+],
+"foods": [
+"Leafy greens",
+"Eggs",
+"Salmon",
+"Beans"
+],
+"doctorWarning": "Seek medical advice if you've been trying to conceive for an extended period without success."
+},
+{
+"id": "pregnancy",
+"keywords": [
+"pregnancy",
+"pregnant",
+"pregnancy symptoms",
+"expecting"
+],
+"description": "Some early pregnancy symptoms can resemble PMS symptoms, including fatigue, breast tenderness, and nausea.",
+"tips": [
+"Take a pregnancy test if your period is late",
+"Track symptoms carefully",
+"Stay hydrated",
+"Consult a healthcare professional when needed"
+],
+"foods": [
+"Fruits",
+"Vegetables",
+"Whole grains",
+"Protein-rich foods"
+],
+"doctorWarning": "If you think you may be pregnant, consider confirming with a test and seeking medical guidance."
+},
+{
+"id": "late_period",
+"keywords": [
+"late",
+"missed",
+"irregular",
+"delay",
+"behind"
+],
+"description": "A delayed period can be caused by stress, illness, travel, weight changes, or pregnancy.",
+"tips": [
+"Track your cycle",
+"Manage stress",
+"Maintain regular sleep",
+"Monitor symptoms"
+],
+"foods": [
+"Balanced meals",
+"Iron-rich foods",
+"Fresh fruits"
+],
+"doctorWarning": "Consult a healthcare professional if periods remain irregular or absent."
+},
+{
+"id": "spotting",
+"keywords": [
+"spotting",
+"light blood",
+"brown",
+"discharge blood"
+],
+"description": "Light spotting can occur at various times during the cycle and is often harmless.",
+"tips": [
+"Track when spotting occurs",
+"Monitor flow changes",
+"Stay hydrated",
+"Note associated symptoms"
+],
+"foods": [
+"Iron-rich foods",
+"Leafy greens"
+],
+"doctorWarning": "Seek medical advice if spotting becomes heavy, painful, or frequent."
+},
+{
+"id": "discharge",
+"keywords": [
+"discharge",
+"fluid",
+"mucus",
+"wet",
+"sticky",
+"dry"
+],
+"description": "Vaginal discharge naturally changes throughout the menstrual cycle and can indicate fertility patterns.",
+"tips": [
+"Monitor color and texture",
+"Track cycle changes",
+"Practice good hygiene",
+"Stay hydrated"
+],
+"foods": [
+"Water-rich fruits",
+"Yogurt",
+"Leafy greens"
+],
+"doctorWarning": "Consult a healthcare professional if discharge develops an unusual odor, color, or causes discomfort."
+},
+{
+"id": "breast_tenderness",
+"keywords": [
+"breast",
+"sore",
+"tender",
+"sensitive",
+"chest"
+],
+"description": "Breast tenderness is common during hormonal shifts, especially before menstruation.",
+"tips": [
+"Wear a supportive bra",
+"Reduce caffeine intake",
+"Stay hydrated",
+"Apply a warm compress if needed"
+],
+"foods": [
+"Leafy greens",
+"Nuts",
+"Whole grains"
+],
+"doctorWarning": "Seek medical advice if breast pain is severe, persistent, or associated with unusual changes."
+},
+{
+"id": "libido",
+"keywords": [
+"libido",
+"sex",
+"drive",
+"intimacy"
+],
+"description": "Sex drive naturally changes throughout the cycle and often increases around ovulation.",
+"tips": [
+"Listen to your body's signals",
+"Communicate openly with your partner",
+"Prioritize comfort",
+"Maintain overall wellness"
+],
+"foods": [
+"Dark chocolate",
+"Avocados",
+"Nuts"
+],
+"doctorWarning": ""
+},
+{
+  "id": "nutrition",
+  "keywords": [
+    "eat",
+    "food",
+    "nutrition",
+    "diet",
+    "healthy eating"
+  ],
+  "description": "Nutrition needs can vary throughout the [PHASE] phase. Eating balanced meals helps support hormone health and energy levels.",
+  "tips": [
+    "Eat regular meals",
+    "Include protein with every meal",
+    "Choose whole foods when possible",
+    "Stay hydrated"
+  ],
+  "foods": [
+    "Leafy greens",
+    "Eggs",
+    "Beans",
+    "Whole grains"
+  ],
+  "doctorWarning": ""
+},
+{
+  "id": "hydration",
+  "keywords": [
+    "water",
+    "hydration",
+    "dehydrated",
+    "drink water",
+    "thirsty"
+  ],
+  "description": "Proper hydration helps support energy, digestion, skin health, and overall wellness during the [PHASE] phase.",
+  "tips": [
+    "Aim for 8-10 glasses of water daily",
+    "Carry a water bottle",
+    "Drink water regularly throughout the day",
+    "Increase fluids during hot weather"
+  ],
+  "foods": [
+    "Watermelon",
+    "Cucumber",
+    "Oranges"
+  ],
+  "doctorWarning": "Seek medical advice if dehydration symptoms become severe."
+},
+{
+  "id": "sleep",
+  "keywords": [
+    "sleep",
+    "insomnia",
+    "awake",
+    "night",
+    "restless"
+  ],
+  "description": "Hormonal changes during the [PHASE] phase can affect sleep quality and energy levels.",
+  "tips": [
+    "Keep a consistent sleep schedule",
+    "Limit screen time before bed",
+    "Keep your room cool",
+    "Avoid caffeine late in the day"
+  ],
+  "foods": [
+    "Bananas",
+    "Almonds",
+    "Oats"
+  ],
+  "doctorWarning": "Consult a healthcare professional if sleep problems persist."
+},
+{
+  "id": "exercise",
+  "keywords": [
+    "workout",
+    "gym",
+    "exercise",
+    "run",
+    "sport",
+    "yoga",
+    "fitness"
+  ],
+  "description": "Exercise can improve mood, circulation, and energy throughout the [PHASE] phase.",
+  "tips": [
+    "Listen to your body",
+    "Choose activities you enjoy",
+    "Stay hydrated",
+    "Allow time for recovery"
+  ],
+  "foods": [
+    "Protein-rich foods",
+    "Bananas",
+    "Greek yogurt"
+  ],
+  "doctorWarning": "Stop exercising and seek medical attention if you experience severe pain or dizziness."
+},
+{
+  "id": "iron",
+  "keywords": [
+    "iron",
+    "spinach",
+    "anemic",
+    "weak",
+    "meat"
+  ],
+  "description": "Iron supports healthy red blood cells and energy production, especially during menstruation.",
+  "tips": [
+    "Pair iron-rich foods with vitamin C",
+    "Eat a balanced diet",
+    "Monitor fatigue symptoms",
+    "Stay consistent with healthy meals"
+  ],
+  "foods": [
+    "Spinach",
+    "Beans",
+    "Red meat",
+    "Lentils"
+  ],
+  "doctorWarning": "Consult a healthcare professional if you suspect iron deficiency."
+},
+{
+  "id": "caffeine",
+  "keywords": [
+    "coffee",
+    "caffeine",
+    "energy drink"
+  ],
+  "description": "Caffeine affects everyone differently and may influence sleep, anxiety, or certain cycle symptoms.",
+  "tips": [
+    "Monitor how caffeine affects you",
+    "Avoid caffeine close to bedtime",
+    "Stay hydrated",
+    "Reduce intake gradually if needed"
+  ],
+  "foods": [
+    "Herbal tea",
+    "Fruit smoothies"
+  ],
+  "doctorWarning": "Consult a healthcare professional if caffeine causes significant symptoms."
+},
+{
+  "id": "alcohol",
+  "keywords": [
+    "alcohol",
+    "wine",
+    "beer",
+    "drink"
+  ],
+  "description": "Alcohol can affect hydration, sleep quality, and overall wellness during the [PHASE] phase.",
+  "tips": [
+    "Drink water alongside alcoholic beverages",
+    "Avoid excessive consumption",
+    "Eat before drinking",
+    "Stay hydrated afterward"
+  ],
+  "foods": [
+    "Water-rich fruits",
+    "Balanced meals"
+  ],
+  "doctorWarning": "Seek medical help if alcohol use becomes difficult to control."
+},
+{
+  "id": "vitamins",
+  "keywords": [
+    "vitamins",
+    "supplements",
+    "magnesium",
+    "zinc",
+    "b6"
+  ],
+  "description": "Certain vitamins and minerals may help support overall wellness and menstrual health.",
+  "tips": [
+    "Follow recommended dosages",
+    "Discuss supplements with a healthcare professional",
+    "Focus on food first when possible",
+    "Track how you feel"
+  ],
+  "foods": [
+    "Nuts",
+    "Seeds",
+    "Leafy greens",
+    "Whole grains"
+  ],
+  "doctorWarning": "Consult a healthcare professional before starting new supplements."
+},
+{
+  "id": "fatigue",
+  "keywords": [
+    "tired",
+    "exhausted",
+    "fatigue",
+    "sleepy",
+    "low energy",
+    "drained"
+  ],
+  "description": "Feeling tired during the [PHASE] phase is common and may be influenced by hormones, sleep, hydration, and nutrition.",
+  "tips": [
+    "Get adequate sleep",
+    "Stay hydrated",
+    "Eat regular meals",
+    "Take short breaks when needed"
+  ],
+  "foods": [
+    "Eggs",
+    "Spinach",
+    "Beans",
+    "Salmon"
+  ],
+  "doctorWarning": "Seek medical advice if fatigue is severe or persistent."
+},
+{
+  "id": "nausea",
+  "keywords": [
+    "nausea",
+    "queasy",
+    "sick",
+    "vomit",
+    "vomiting"
+  ],
+  "description": "Nausea can occur during the [PHASE] phase due to hormonal fluctuations and prostaglandin activity.",
+  "tips": [
+    "Eat small frequent meals",
+    "Sip water slowly",
+    "Rest when needed",
+    "Try ginger tea"
+  ],
+  "foods": [
+    "Ginger",
+    "Crackers",
+    "Bananas",
+    "Rice"
+  ],
+  "doctorWarning": "Seek medical advice if nausea is severe, persistent, or prevents eating and drinking."
+},
+{
+  "id": "constipation",
+  "keywords": [
+    "constipation",
+    "constipated",
+    "hard stool",
+    "can't poop"
+  ],
+  "description": "Hormonal changes during the [PHASE] phase can slow digestion and contribute to constipation.",
+  "tips": [
+    "Drink more water",
+    "Increase fiber intake",
+    "Stay physically active",
+    "Avoid processed foods"
+  ],
+  "foods": [
+    "Oats",
+    "Apples",
+    "Prunes",
+    "Leafy greens"
+  ],
+  "doctorWarning": "Consult a healthcare professional if constipation becomes severe or prolonged."
+},
+{
+  "id": "diarrhea",
+  "keywords": [
+    "diarrhea",
+    "loose stool",
+    "runny stool",
+    "frequent bowel movement"
+  ],
+  "description": "Some people experience diarrhea during menstruation because prostaglandins can affect the digestive system.",
+  "tips": [
+    "Stay hydrated",
+    "Eat bland foods",
+    "Avoid greasy foods",
+    "Rest when needed"
+  ],
+  "foods": [
+    "Rice",
+    "Toast",
+    "Bananas",
+    "Applesauce"
+  ],
+  "doctorWarning": "Seek medical advice if diarrhea is severe, prolonged, or causes dehydration."
+},
+{
+  "id": "stomach_pain",
+  "keywords": [
+    "stomach pain",
+    "stomach ache",
+    "belly pain",
+    "digestive pain"
+  ],
+  "description": "Digestive discomfort can occur during the [PHASE] phase due to hormonal and gastrointestinal changes.",
+  "tips": [
+    "Eat smaller meals",
+    "Stay hydrated",
+    "Avoid foods that trigger symptoms",
+    "Rest when needed"
+  ],
+  "foods": [
+    "Rice",
+    "Bananas",
+    "Soup",
+    "Toast"
+  ],
+  "doctorWarning": "Seek medical attention if pain becomes severe or unusual."
+},
+{
+  "id": "gas",
+  "keywords": [
+    "gas",
+    "gassy",
+    "flatulence",
+    "burping"
+  ],
+  "description": "Hormonal fluctuations during the [PHASE] phase can contribute to bloating and increased gas.",
+  "tips": [
+    "Eat slowly",
+    "Avoid carbonated drinks",
+    "Take a gentle walk",
+    "Stay hydrated"
+  ],
+  "foods": [
+    "Peppermint tea",
+    "Ginger",
+    "Yogurt"
+  ],
+  "doctorWarning": "Consult a healthcare professional if symptoms become severe or persistent."
+},
+{
+  "id": "indigestion",
+  "keywords": [
+    "indigestion",
+    "heartburn",
+    "acid reflux",
+    "burning chest"
+  ],
+  "description": "Digestive changes during the [PHASE] phase can sometimes increase indigestion or acid reflux symptoms.",
+  "tips": [
+    "Avoid lying down after meals",
+    "Eat smaller portions",
+    "Reduce spicy foods",
+    "Avoid overeating"
+  ],
+  "foods": [
+    "Oatmeal",
+    "Bananas",
+    "Non-citrus fruits"
+  ],
+  "doctorWarning": "Seek medical advice if symptoms occur frequently or worsen."
+},
+{
+  "id": "loss_of_appetite",
+  "keywords": [
+    "no appetite",
+    "loss of appetite",
+    "not hungry",
+    "can't eat"
+  ],
+  "description": "Hormonal changes, nausea, or stress during the [PHASE] phase may temporarily reduce appetite.",
+  "tips": [
+    "Eat small meals",
+    "Stay hydrated",
+    "Choose nutrient-dense foods",
+    "Avoid skipping meals completely"
+  ],
+  "foods": [
+    "Smoothies",
+    "Soup",
+    "Bananas",
+    "Yogurt"
+  ],
+  "doctorWarning": "Seek medical advice if appetite loss is significant or long-lasting."
+},
+{
+  "id": "pcos",
+  "keywords": [
+    "pcos",
+    "polycystic ovary syndrome"
+  ],
+  "description": "PCOS (Polycystic Ovary Syndrome) is a hormonal condition that can affect periods, ovulation, weight, skin, and fertility.",
+  "tips": [
+    "Track your cycle regularly",
+    "Maintain a balanced diet",
+    "Exercise consistently",
+    "Monitor symptoms over time"
+  ],
+  "foods": [
+    "Leafy greens",
+    "Whole grains",
+    "Beans",
+    "Nuts"
+  ],
+  "doctorWarning": "Consult a healthcare professional for diagnosis and personalized treatment."
+},
+{
+  "id": "pcod",
+  "keywords": [
+    "pcod",
+    "polycystic ovarian disease"
+  ],
+  "description": "PCOD is a condition where the ovaries may develop multiple immature follicles, affecting hormone balance and menstrual cycles.",
+  "tips": [
+    "Track periods carefully",
+    "Maintain a healthy lifestyle",
+    "Manage stress",
+    "Stay physically active"
+  ],
+  "foods": [
+    "Vegetables",
+    "Lean proteins",
+    "Whole grains"
+  ],
+  "doctorWarning": "Seek medical guidance for proper evaluation and management."
+},
+{
+  "id": "endometriosis",
+  "keywords": [
+    "endometriosis",
+    "endo"
+  ],
+  "description": "Endometriosis occurs when tissue similar to the uterine lining grows outside the uterus and may cause significant pain.",
+  "tips": [
+    "Track pain patterns",
+    "Use heat therapy",
+    "Rest when needed",
+    "Keep symptom records"
+  ],
+  "foods": [
+    "Leafy greens",
+    "Fatty fish",
+    "Berries"
+  ],
+  "doctorWarning": "Consult a healthcare professional if you experience severe menstrual pain or ongoing pelvic pain."
+},
+{
+  "id": "hormonal_imbalance",
+  "keywords": [
+    "hormonal imbalance",
+    "hormone imbalance",
+    "hormones"
+  ],
+  "description": "Hormonal imbalances can affect mood, energy, skin, weight, and menstrual cycle regularity.",
+  "tips": [
+    "Prioritize sleep",
+    "Manage stress",
+    "Eat balanced meals",
+    "Track symptoms consistently"
+  ],
+  "foods": [
+    "Vegetables",
+    "Healthy fats",
+    "Whole grains"
+  ],
+  "doctorWarning": "Seek medical advice if symptoms become persistent or significantly affect daily life."
+},
+{
+  "id": "irregular_periods",
+  "keywords": [
+    "irregular period",
+    "irregular periods",
+    "cycle irregular",
+    "period irregular"
+  ],
+  "description": "Irregular periods can be caused by stress, hormonal changes, PCOS, thyroid issues, or other health conditions.",
+  "tips": [
+    "Track your cycle",
+    "Maintain healthy habits",
+    "Reduce stress",
+    "Monitor changes over several months"
+  ],
+  "foods": [
+    "Iron-rich foods",
+    "Whole grains",
+    "Fresh fruits"
+  ],
+  "doctorWarning": "Consult a healthcare professional if cycles remain consistently irregular."
+},
+{
+  "id": "heavy_bleeding",
+  "keywords": [
+    "heavy bleeding",
+    "heavy period",
+    "excessive bleeding",
+    "menorrhagia"
+  ],
+  "description": "Heavy menstrual bleeding may occur for many reasons, including hormonal changes and certain medical conditions.",
+  "tips": [
+    "Track flow intensity",
+    "Stay hydrated",
+    "Rest when needed",
+    "Monitor for dizziness"
+  ],
+  "foods": [
+    "Spinach",
+    "Beans",
+    "Iron-rich foods"
+  ],
+  "doctorWarning": "Seek medical attention if bleeding is extremely heavy, prolonged, or causes weakness or dizziness."
+},
+{
+  "id": "pelvic_pain",
+  "keywords": [
+    "pelvic pain",
+    "pelvis pain",
+    "lower pelvic pain"
+  ],
+  "description": "Pelvic pain can occur during different phases of the cycle and may have several possible causes.",
+  "tips": [
+    "Track timing and severity",
+    "Use gentle heat",
+    "Rest when needed",
+    "Stay hydrated"
+  ],
+  "foods": [
+    "Anti-inflammatory foods",
+    "Berries",
+    "Leafy greens"
+  ],
+  "doctorWarning": "Seek medical evaluation if pain is severe, persistent, or worsening."
+},
+{
+  "id": "greeting",
+  "keywords": [
+    "hi",
+    "hello",
+    "hey",
+    "good morning",
+    "good afternoon",
+    "good evening"
+  ],
+  "description": "Hello! I'm Luna, your personal cycle and wellness companion. I'm here to help you understand your body and feel your best.",
+  "tips": [
+    "Ask about symptoms",
+    "Ask about your current phase",
+    "Ask about food recommendations",
+    "Ask wellness questions anytime"
+  ],
+  "foods": [],
+  "doctorWarning": ""
+},
+{
+  "id": "who_is_luna",
+  "keywords": [
+    "who are you",
+    "your name",
+    "what are you",
+    "what is luna"
+  ],
+  "description": "I'm Luna, your AI wellness companion. I can help explain symptoms, cycle phases, nutrition, hydration, sleep, and general menstrual wellness.",
+  "tips": [
+    "Track symptoms regularly",
+    "Log water intake",
+    "Record moods and energy",
+    "Ask questions naturally"
+  ],
+  "foods": [],
+  "doctorWarning": ""
+},
+{
+  "id": "how_are_you",
+  "keywords": [
+    "how are you",
+    "how are things",
+    "you doing okay"
+  ],
+  "description": "I'm doing great and ready to help. My favorite thing is helping you better understand your body and cycle.",
+  "tips": [],
+  "foods": [],
+  "doctorWarning": ""
+},
+{
+  "id": "help",
+  "keywords": [
+    "help",
+    "features",
+    "what can you do",
+    "how to use"
+  ],
+  "description": "I can answer questions about periods, symptoms, PMS, ovulation, fertility, nutrition, hydration, exercise, sleep, and emotional wellness.",
+  "tips": [
+    "Ask 'Why am I tired?'",
+    "Ask 'What should I eat?'",
+    "Ask 'Tell me about my phase'",
+    "Ask 'How can I reduce cramps?'"
+  ],
+  "foods": [],
+  "doctorWarning": ""
+},
+{
+  "id": "privacy",
+  "keywords": [
+    "safe",
+    "private",
+    "security",
+    "data",
+    "privacy"
+  ],
+  "description": "Your privacy matters. Your health information should remain personal and secure within the app.",
+  "tips": [
+    "Use a screen lock",
+    "Keep your app updated",
+    "Protect your device"
+  ],
+  "foods": [],
+  "doctorWarning": ""
+},
+{
+  "id": "thanks",
+  "keywords": [
+    "thank you",
+    "thanks",
+    "helpful",
+    "good bot"
+  ],
+  "description": "You're very welcome. I'm always here whenever you need guidance or support.",
+  "tips": [
+    "Continue tracking your wellness",
+    "Stay hydrated",
+    "Listen to your body"
+  ],
+  "foods": [],
+  "doctorWarning": ""
+},
+{
+  "id": "doctor",
+  "keywords": [
+    "doctor",
+    "hospital",
+    "medical",
+    "clinic"
+  ],
+  "description": "Healthcare professionals are the best source for diagnosis and treatment of medical conditions.",
+  "tips": [
+    "Track symptoms before appointments",
+    "Write down questions",
+    "Share cycle history if relevant"
+  ],
+  "foods": [],
+  "doctorWarning": "Seek urgent medical care for severe pain, heavy bleeding, fainting, difficulty breathing, or other emergency symptoms."
+},
+{
+  "id": "emergency",
+  "keywords": [
+    "emergency",
+    "urgent",
+    "severe pain",
+    "extreme bleeding"
+  ],
+  "description": "Some symptoms require immediate medical attention and should not be managed through self-care alone.",
+  "tips": [
+    "Seek medical help immediately",
+    "Contact emergency services if necessary",
+    "Do not delay treatment for severe symptoms"
+  ],
+  "foods": [],
+  "doctorWarning": "Get immediate medical care if you experience severe pain, loss of consciousness, heavy uncontrolled bleeding, or other emergency symptoms."
+},
+{
+  "id": "menstrual_phase",
+  "keywords": [
+    "menstrual phase",
+    "period phase",
+    "menstruation",
+    "on my period"
+  ],
+  "description": "The Menstrual Phase is the beginning of your cycle when the uterine lining sheds. Energy levels may be lower and cramps, fatigue, and mood changes are common.",
+  "tips": [
+    "Prioritize rest",
+    "Stay hydrated",
+    "Use heat therapy for cramps",
+    "Choose gentle exercise"
+  ],
+  "foods": [
+    "Spinach",
+    "Lentils",
+    "Dark chocolate",
+    "Warm soups"
+  ],
+  "doctorWarning": "Consult a healthcare professional if bleeding is extremely heavy or pain is severe."
+},
+{
+  "id": "follicular_phase",
+  "keywords": [
+    "follicular phase",
+    "follicular",
+    "after period"
+  ],
+  "description": "The Follicular Phase begins after menstruation. Estrogen rises, energy often improves, and many people feel more motivated and productive.",
+  "tips": [
+    "Start new projects",
+    "Exercise more intensely if comfortable",
+    "Focus on learning and creativity",
+    "Maintain healthy routines"
+  ],
+  "foods": [
+    "Leafy greens",
+    "Eggs",
+    "Fermented foods",
+    "Fresh fruits"
+  ],
+  "doctorWarning": ""
+},
+{
+  "id": "ovulation_phase",
+  "keywords": [
+    "ovulation phase",
+    "ovulating",
+    "ovulation"
+  ],
+  "description": "Ovulation is when an egg is released from the ovary. Fertility is highest during this phase and energy may peak.",
+  "tips": [
+    "Track fertility signs",
+    "Stay hydrated",
+    "Maintain healthy sleep habits",
+    "Listen to your body"
+  ],
+  "foods": [
+    "Berries",
+    "Fish",
+    "Broccoli",
+    "Nuts"
+  ],
+  "doctorWarning": "Consult a healthcare professional if you suspect ovulation-related problems."
+},
+{
+  "id": "luteal_phase",
+  "keywords": [
+    "luteal phase",
+    "before period",
+    "premenstrual phase"
+  ],
+  "description": "The Luteal Phase occurs after ovulation and before menstruation. PMS symptoms, cravings, bloating, and mood changes are more common.",
+  "tips": [
+    "Prioritize sleep",
+    "Reduce excess salt",
+    "Manage stress",
+    "Choose balanced meals"
+  ],
+  "foods": [
+    "Sweet potatoes",
+    "Bananas",
+    "Oats",
+    "Magnesium-rich foods"
+  ],
+  "doctorWarning": "Consult a healthcare professional if PMS symptoms become severe."
+},
+{
+  "id": "energy_levels",
+  "keywords": [
+    "energy",
+    "energy level",
+    "why am i tired",
+    "why am i energetic"
+  ],
+  "description": "Energy levels naturally change throughout the menstrual cycle due to hormone fluctuations.",
+  "tips": [
+    "Track your energy daily",
+    "Adjust workouts accordingly",
+    "Get enough sleep",
+    "Stay hydrated"
+  ],
+  "foods": [
+    "Eggs",
+    "Salmon",
+    "Oats",
+    "Nuts"
+  ],
+  "doctorWarning": ""
+},
+{
+  "id": "mood_changes",
+  "keywords": [
+    "mood",
+    "mood change",
+    "why am i emotional",
+    "why am i moody"
+  ],
+  "description": "Hormonal fluctuations throughout the cycle can influence mood, motivation, and emotional sensitivity.",
+  "tips": [
+    "Practice self-care",
+    "Get enough sleep",
+    "Stay active",
+    "Talk about your feelings"
+  ],
+  "foods": [
+    "Dark chocolate",
+    "Bananas",
+    "Salmon"
+  ],
+  "doctorWarning": "Seek professional support if emotional symptoms become overwhelming."
+},
+{
+  "id": "hydration_check",
+  "keywords": [
+    "check hydration",
+    "water intake",
+    "am i hydrated"
+  ],
+  "description": "I can review your hydration data and provide personalized guidance.",
+  "tips": [],
+  "foods": [],
+  "doctorWarning": ""
+},
+{
+  "id": "travel",
+  "keywords": [
+    "travel",
+    "trip",
+    "vacation",
+    "flight",
+    "journey"
+  ],
+  "description": "Travel, time-zone changes, and disrupted routines can temporarily affect your cycle.",
+  "tips": [
+    "Stay hydrated while traveling",
+    "Maintain sleep schedules when possible",
+    "Pack period supplies",
+    "Track symptoms during trips"
+  ],
+  "foods": [
+    "Water-rich fruits",
+    "Protein snacks",
+    "Nuts"
+  ],
+  "doctorWarning": ""
+},
+{
+  "id": "school_work",
+  "keywords": [
+    "school",
+    "study",
+    "exam",
+    "work",
+    "office",
+    "concentration",
+    "focus"
+  ],
+  "description": "Hormonal changes throughout the cycle can affect focus, memory, and productivity.",
+  "tips": [
+    "Take short breaks",
+    "Stay hydrated",
+    "Prioritize important tasks during high-energy days",
+    "Get enough sleep"
+  ],
+  "foods": [
+    "Eggs",
+    "Nuts",
+    "Blueberries",
+    "Whole grains"
+  ],
+  "doctorWarning": ""
+},
+{
+  "id": "self_care",
+  "keywords": [
+    "self care",
+    "self-care",
+    "relax",
+    "relaxation",
+    "pamper"
+  ],
+  "description": "Self-care can help improve both physical and emotional wellbeing during every phase of your cycle.",
+  "tips": [
+    "Take a warm bath",
+    "Practice mindfulness",
+    "Read a book",
+    "Spend time outdoors"
+  ],
+  "foods": [
+    "Herbal tea",
+    "Dark chocolate",
+    "Fresh fruit"
+  ],
+  "doctorWarning": ""
+},
+{
+  "id": "motivation",
+  "keywords": [
+    "motivation",
+    "lazy",
+    "unmotivated",
+    "productive"
+  ],
+  "description": "Motivation naturally changes throughout the menstrual cycle as hormone levels fluctuate.",
+  "tips": [
+    "Break tasks into small steps",
+    "Celebrate progress",
+    "Prioritize rest when needed",
+    "Use high-energy phases wisely"
+  ],
+  "foods": [
+    "Oats",
+    "Bananas",
+    "Nuts"
+  ],
+  "doctorWarning": ""
+},
+{
+  "id": "skin_health",
+  "keywords": [
+    "glowing skin",
+    "skin care",
+    "face",
+    "beauty"
+  ],
+  "description": "Hormones can influence skin appearance, oil production, and overall glow throughout the cycle.",
+  "tips": [
+    "Stay hydrated",
+    "Use gentle skincare",
+    "Get enough sleep",
+    "Wear sunscreen"
+  ],
+  "foods": [
+    "Berries",
+    "Avocados",
+    "Leafy greens"
+  ],
+  "doctorWarning": ""
+},
+{
+  "id": "hair_health",
+  "keywords": [
+    "hair",
+    "hair fall",
+    "hair loss",
+    "scalp",
+    "oily hair",
+    "dry hair"
+  ],
+  "description": "Hormonal fluctuations can affect hair texture, oil production, and shedding patterns.",
+  "tips": [
+    "Use gentle hair care",
+    "Stay hydrated",
+    "Eat protein-rich foods",
+    "Avoid excessive heat styling"
+  ],
+  "foods": [
+    "Eggs",
+    "Fish",
+    "Nuts",
+    "Spinach"
+  ],
+  "doctorWarning": "Consult a healthcare professional if hair loss becomes significant."
+},
+{
+  "id": "pads",
+  "keywords": [
+    "pad",
+    "pads",
+    "sanitary pad"
+  ],
+  "description": "Pads are external menstrual products that absorb menstrual flow.",
+  "tips": [
+    "Change regularly",
+    "Choose the correct absorbency",
+    "Keep spare products available"
+  ],
+  "foods": [],
+  "doctorWarning": ""
+},
+{
+  "id": "tampons",
+  "keywords": [
+    "tampon",
+    "tampons"
+  ],
+  "description": "Tampons are internal menstrual products used to absorb menstrual flow.",
+  "tips": [
+    "Follow product instructions",
+    "Change regularly",
+    "Use appropriate absorbency"
+  ],
+  "foods": [],
+  "doctorWarning": "Seek medical attention if you experience symptoms of Toxic Shock Syndrome."
+},
+{
+  "id": "menstrual_cup",
+  "keywords": [
+    "cup",
+    "menstrual cup",
+    "period cup"
+  ],
+  "description": "Menstrual cups are reusable products designed to collect menstrual flow.",
+  "tips": [
+    "Clean according to instructions",
+    "Practice insertion techniques",
+    "Sterilize between cycles"
+  ],
+  "foods": [],
+  "doctorWarning": ""
+},
+{
+  "id": "birth_control",
+  "keywords": [
+    "birth control",
+    "contraception",
+    "prevent pregnancy",
+    "contraceptive"
+  ],
+  "description": "Birth control methods help prevent pregnancy and may also affect menstrual cycles, symptoms, and hormone levels.",
+  "tips": [
+    "Use contraception consistently",
+    "Follow instructions carefully",
+    "Track cycle changes",
+    "Discuss options with a healthcare professional"
+  ],
+  "foods": [],
+  "doctorWarning": "Consult a healthcare professional when choosing or changing birth control methods."
+},
+{
+  "id": "birth_control_pill",
+  "keywords": [
+    "pill",
+    "birth control pill",
+    "oral contraceptive",
+    "contraceptive pill"
+  ],
+  "description": "Birth control pills contain hormones that help prevent pregnancy and may regulate periods.",
+  "tips": [
+    "Take pills at the same time daily",
+    "Set reminders",
+    "Read package instructions",
+    "Track side effects"
+  ],
+  "foods": [],
+  "doctorWarning": "Seek medical advice if you experience severe side effects or concerns."
+},
+{
+  "id": "missed_pill",
+  "keywords": [
+    "missed pill",
+    "forgot pill",
+    "forgot birth control",
+    "missed contraceptive"
+  ],
+  "description": "Missing a birth control pill may reduce effectiveness depending on the type of pill and timing.",
+  "tips": [
+    "Check your pill instructions",
+    "Follow the missed-pill guidance",
+    "Use backup protection if recommended",
+    "Stay consistent moving forward"
+  ],
+  "foods": [],
+  "doctorWarning": "Consult a healthcare professional if you're unsure what to do after missing pills."
+},
+{
+  "id": "condom",
+  "keywords": [
+    "condom",
+    "condoms",
+    "protection"
+  ],
+  "description": "Condoms help reduce the risk of pregnancy and sexually transmitted infections when used correctly.",
+  "tips": [
+    "Check expiration dates",
+    "Use correctly every time",
+    "Store properly",
+    "Use a new condom each time"
+  ],
+  "foods": [],
+  "doctorWarning": ""
+},
+{
+  "id": "iud",
+  "keywords": [
+    "iud",
+    "coil",
+    "intrauterine device"
+  ],
+  "description": "An IUD is a long-term contraceptive device placed in the uterus by a healthcare professional.",
+  "tips": [
+    "Attend follow-up appointments",
+    "Monitor unusual symptoms",
+    "Track cycle changes"
+  ],
+  "foods": [],
+  "doctorWarning": "Seek medical care if you experience severe pain, fever, or unusual bleeding."
+},
+{
+  "id": "implant",
+  "keywords": [
+    "implant",
+    "birth control implant",
+    "arm implant"
+  ],
+  "description": "A contraceptive implant is a small device placed under the skin that releases hormones to prevent pregnancy.",
+  "tips": [
+    "Track side effects",
+    "Attend follow-up appointments",
+    "Discuss concerns with your healthcare provider"
+  ],
+  "foods": [],
+  "doctorWarning": "Consult a healthcare professional if you notice significant side effects."
+},
+{
+  "id": "emergency_contraception",
+  "keywords": [
+    "emergency contraception",
+    "morning after pill",
+    "plan b",
+    "emergency pill"
+  ],
+  "description": "Emergency contraception can help reduce the chance of pregnancy after unprotected intercourse when used within the recommended timeframe.",
+  "tips": [
+    "Take it as soon as possible",
+    "Read package instructions",
+    "Monitor your next period",
+    "Consider ongoing contraception options"
+  ],
+  "foods": [],
+  "doctorWarning": "Consult a healthcare professional if your period is significantly delayed or you have concerns."
+},
+{
+  "id": "breakthrough_bleeding",
+  "keywords": [
+    "breakthrough bleeding",
+    "bleeding on pill",
+    "spotting on birth control"
+  ],
+  "description": "Light spotting or breakthrough bleeding can occur when starting or changing hormonal contraception.",
+  "tips": [
+    "Continue tracking symptoms",
+    "Take medication consistently",
+    "Monitor changes over time"
+  ],
+  "foods": [
+    "Iron-rich foods"
+  ],
+  "doctorWarning": "Consult a healthcare professional if bleeding becomes heavy or persistent."
+},
+{
+  "id": "trying_to_conceive",
+  "keywords": [
+    "trying to conceive",
+    "ttc",
+    "want baby",
+    "trying for pregnancy"
+  ],
+  "description": "Trying to conceive involves understanding ovulation, fertile windows, and maintaining healthy lifestyle habits.",
+  "tips": [
+    "Track ovulation",
+    "Monitor cervical mucus",
+    "Maintain healthy habits",
+    "Take prenatal vitamins if recommended"
+  ],
+  "foods": [
+    "Leafy greens",
+    "Eggs",
+    "Beans",
+    "Salmon"
+  ],
+  "doctorWarning": "Consult a healthcare professional if you've been trying to conceive for an extended period without success."
+},
+{
+  "id": "fertile_window",
+  "keywords": [
+    "fertile window",
+    "fertile days",
+    "most fertile",
+    "fertility window"
+  ],
+  "description": "The fertile window is the period when pregnancy is most likely, typically around ovulation.",
+  "tips": [
+    "Track cycle dates",
+    "Monitor ovulation signs",
+    "Observe cervical mucus",
+    "Use ovulation prediction tools"
+  ],
+  "foods": [],
+  "doctorWarning": ""
+},
+{
+  "id": "ovulation_signs",
+  "keywords": [
+    "ovulation signs",
+    "signs of ovulation",
+    "am i ovulating",
+    "ovulating"
+  ],
+  "description": "Common ovulation signs include stretchy cervical mucus, increased libido, mild pelvic discomfort, and slight temperature changes.",
+  "tips": [
+    "Track symptoms daily",
+    "Observe cervical mucus",
+    "Use ovulation tests if desired",
+    "Record cycle patterns"
+  ],
+  "foods": [],
+  "doctorWarning": ""
+},
+{
+  "id": "pregnancy_symptoms",
+  "keywords": [
+    "pregnancy symptoms",
+    "early pregnancy",
+    "pregnant",
+    "pregnancy signs"
+  ],
+  "description": "Early pregnancy symptoms may include a missed period, fatigue, nausea, breast tenderness, and increased urination.",
+  "tips": [
+    "Track symptoms",
+    "Take a pregnancy test if appropriate",
+    "Get adequate rest",
+    "Stay hydrated"
+  ],
+  "foods": [],
+  "doctorWarning": "Consult a healthcare professional for confirmation and prenatal care."
+},
+{
+  "id": "pregnancy_test",
+  "keywords": [
+    "pregnancy test",
+    "test positive",
+    "test negative",
+    "when to test"
+  ],
+  "description": "Pregnancy tests are generally most accurate after a missed period.",
+  "tips": [
+    "Follow test instructions carefully",
+    "Use first morning urine if recommended",
+    "Retest if needed",
+    "Consult a healthcare professional for confirmation"
+  ],
+  "foods": [],
+  "doctorWarning": ""
+},
+{
+  "id": "implantation",
+  "keywords": [
+    "implantation",
+    "implantation bleeding",
+    "implantation symptoms"
+  ],
+  "description": "Implantation occurs when a fertilized egg attaches to the uterine lining. Some people may notice light spotting.",
+  "tips": [
+    "Track timing carefully",
+    "Monitor symptoms",
+    "Avoid relying on symptoms alone"
+  ],
+  "foods": [],
+  "doctorWarning": "Consult a healthcare professional if you experience concerning symptoms."
+},
+{
+  "id": "morning_sickness",
+  "keywords": [
+    "morning sickness",
+    "pregnancy nausea",
+    "nausea pregnant"
+  ],
+  "description": "Nausea and vomiting are common during early pregnancy and can occur at any time of day.",
+  "tips": [
+    "Eat small meals",
+    "Stay hydrated",
+    "Avoid trigger foods",
+    "Get adequate rest"
+  ],
+  "foods": [
+    "Crackers",
+    "Bananas",
+    "Ginger tea"
+  ],
+  "doctorWarning": "Seek medical attention if nausea becomes severe or causes dehydration."
+},
+{
+  "id": "pregnancy_nutrition",
+  "keywords": [
+    "pregnancy food",
+    "pregnancy nutrition",
+    "what to eat pregnant"
+  ],
+  "description": "Good nutrition supports both maternal health and fetal development during pregnancy.",
+  "tips": [
+    "Eat balanced meals",
+    "Stay hydrated",
+    "Follow medical advice",
+    "Take recommended supplements"
+  ],
+  "foods": [
+    "Leafy greens",
+    "Beans",
+    "Eggs",
+    "Whole grains"
+  ],
+  "doctorWarning": "Consult a healthcare professional for personalized dietary guidance."
+},
+{
+  "id": "first_period",
+  "keywords": [
+    "first period",
+    "my first period",
+    "started period",
+    "first menstruation"
+  ],
+  "description": "Your first period is a normal part of puberty and signals that your reproductive system is maturing.",
+  "tips": [
+    "Carry period products",
+    "Track your cycle",
+    "Talk to a trusted adult",
+    "Stay calm and informed"
+  ],
+  "foods": [
+    "Iron-rich foods",
+    "Fresh fruits",
+    "Water"
+  ],
+  "doctorWarning": ""
+},
+{
+  "id": "puberty",
+  "keywords": [
+    "puberty",
+    "growing up",
+    "body changes"
+  ],
+  "description": "Puberty causes physical and emotional changes as hormones increase and the body develops.",
+  "tips": [
+    "Practice good hygiene",
+    "Ask questions when unsure",
+    "Get enough sleep",
+    "Eat balanced meals"
+  ],
+  "foods": [
+    "Protein-rich foods",
+    "Vegetables",
+    "Whole grains"
+  ],
+  "doctorWarning": ""
+},
+{
+  "id": "period_at_school",
+  "keywords": [
+    "period at school",
+    "period in class",
+    "school period",
+    "started period at school"
+  ],
+  "description": "Having your period at school can feel stressful, but it's a common experience.",
+  "tips": [
+    "Keep spare pads available",
+    "Wear dark-colored clothing if concerned",
+    "Talk to a teacher or nurse if needed",
+    "Stay confident"
+  ],
+  "foods": [],
+  "doctorWarning": ""
+},
+{
+  "id": "swimming_period",
+  "keywords": [
+    "swim on period",
+    "swimming during period",
+    "period swimming"
+  ],
+  "description": "Yes, you can swim during your period. Many people continue normal activities while menstruating.",
+  "tips": [
+    "Use appropriate menstrual products",
+    "Stay hydrated",
+    "Listen to your comfort level"
+  ],
+  "foods": [],
+  "doctorWarning": ""
+},
+{
+  "id": "exercise_period",
+  "keywords": [
+    "exercise during period",
+    "workout on period",
+    "gym on period"
+  ],
+  "description": "Exercise during your period is generally safe and may help improve mood and reduce discomfort.",
+  "tips": [
+    "Adjust intensity if needed",
+    "Stay hydrated",
+    "Choose activities you enjoy"
+  ],
+  "foods": [],
+  "doctorWarning": ""
+},
+{
+  "id": "wash_hair_period",
+  "keywords": [
+    "wash hair during period",
+    "hair wash period"
+  ],
+  "description": "Washing your hair during your period is completely safe and does not affect menstrual flow.",
+  "tips": [
+    "Maintain normal hygiene routines",
+    "Use products that suit your hair type"
+  ],
+  "foods": [],
+  "doctorWarning": ""
+},
+{
+  "id": "pregnant_on_period",
+  "keywords": [
+    "pregnant during period",
+    "get pregnant on period"
+  ],
+  "description": "Pregnancy is less likely during menstruation, but it is still possible depending on cycle timing.",
+  "tips": [
+    "Use reliable contraception if avoiding pregnancy",
+    "Track your cycle carefully"
+  ],
+  "foods": [],
+  "doctorWarning": ""
+},
+{
+  "id": "perimenopause",
+  "keywords": [
+    "perimenopause",
+    "peri menopause"
+  ],
+  "description": "Perimenopause is the transition period before menopause when hormone levels begin to fluctuate.",
+  "tips": [
+    "Track symptoms",
+    "Stay active",
+    "Prioritize sleep",
+    "Manage stress"
+  ],
+  "foods": [
+    "Calcium-rich foods",
+    "Leafy greens"
+  ],
+  "doctorWarning": "Consult a healthcare professional if symptoms become difficult to manage."
+},
+{
+  "id": "menopause",
+  "keywords": [
+    "menopause",
+    "menopausal"
+  ],
+  "description": "Menopause occurs when menstrual periods permanently stop due to natural hormonal changes.",
+  "tips": [
+    "Stay physically active",
+    "Eat nutrient-rich foods",
+    "Maintain regular health checkups"
+  ],
+  "foods": [
+    "Calcium-rich foods",
+    "Protein-rich foods"
+  ],
+  "doctorWarning": "Consult a healthcare professional regarding persistent symptoms."
+},
+{
+  "id": "hot_flashes",
+  "keywords": [
+    "hot flashes",
+    "hot flushes"
+  ],
+  "description": "Hot flashes are sudden feelings of warmth that commonly occur during menopause.",
+  "tips": [
+    "Dress in layers",
+    "Stay hydrated",
+    "Keep your environment cool"
+  ],
+  "foods": [],
+  "doctorWarning": ""
+},
+{
+  "id": "night_sweats",
+  "keywords": [
+    "night sweats",
+    "sweating at night"
+  ],
+  "description": "Night sweats are episodes of excessive sweating during sleep and can occur during menopause.",
+  "tips": [
+    "Keep the bedroom cool",
+    "Use breathable bedding",
+    "Stay hydrated"
+  ],
+  "foods": [],
+  "doctorWarning": ""
+},
+{
+  "id": "pap_smear",
+  "keywords": [
+    "pap smear",
+    "cervical screening",
+    "pap test"
+  ],
+  "description": "A Pap smear is a screening test used to detect abnormal cervical cells.",
+  "tips": [
+    "Follow recommended screening schedules",
+    "Discuss questions with your healthcare provider"
+  ],
+  "foods": [],
+  "doctorWarning": ""
+},
+{
+  "id": "breast_self_exam",
+  "keywords": [
+    "breast self exam",
+    "check breasts",
+    "breast check"
+  ],
+  "description": "Breast self-awareness helps you notice changes that should be discussed with a healthcare professional.",
+  "tips": [
+    "Become familiar with your normal breast appearance.",
+    "Report unusual changes"
+  ],
+  "foods": [],
+  "doctorWarning": "Seek medical advice if you notice new lumps or concerning changes."
+},
+{
+  "id": "gynecologist",
+  "keywords": [
+    "gynecologist",
+    "gynaecologist",
+    "women doctor"
+  ],
+  "description": "A gynecologist specializes in reproductive and women's health.",
+  "tips": [
+    "Track symptoms before appointments",
+    "Prepare questions in advance"
+  ],
+  "foods": [],
+  "doctorWarning": ""
+}
+]
