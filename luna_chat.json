@@ -1,4 +1,10 @@
 {
+  "defaults": [
+    "I'm sorry, I couldn't quite understand that. 🌸 Could you try asking differently?",
+    "I'm still learning! 💖 Try asking about symptoms, moods, periods, hydration, or cycle phases.",
+    "I don't have information about that yet. 🌙 Ask me about your cycle, PMS, food, sleep, or wellness.",
+    "I couldn't find an answer for that right now. 💕 Try asking about cramps, periods, mood, sleep, or nutrition."
+  ],
   "responses": [
     {
       "id": "cramps",
