@@ -2099,6 +2099,36 @@
       ],
       "foods": [],
       "doctorWarning": ""
+    },
+    {
+      "keywords": ["menopause", "hot flashes", "hot flushes", "night sweats"],
+      "text": "Menopause is a natural stage of life that marks the end of menstrual cycles. 🌸",
+      "description": "It usually occurs between ages 45 and 55 and is caused by a decline in estrogen levels. Common symptoms include hot flashes, night sweats, sleep difficulties, mood changes, and irregular periods.",
+      "tips": [
+        "Stay hydrated throughout the day",
+        "Wear light, breathable clothing",
+        "Exercise regularly to support bone and heart health",
+        "Maintain a balanced diet rich in calcium and vitamin D"
+      ],
+      "foods": [
+        "Soy products",
+        "Leafy green vegetables",
+        "Fatty fish",
+        "Nuts and seeds"
+      ],
+      "doctorWarning": "Consult a healthcare professional if symptoms become severe or significantly affect daily life."
+    },
+    {
+      "keywords": ["irregular periods", "late period", "missed period"],
+      "text": "Irregular periods can happen for many reasons and are often temporary. 🌙",
+      "description": "Stress, hormonal changes, weight fluctuations, intense exercise, and certain medical conditions can affect cycle regularity.",
+      "tips": [
+        "Track your cycle consistently",
+        "Manage stress levels",
+        "Get adequate sleep",
+        "Maintain a healthy lifestyle"
+      ],
+      "doctorWarning": "Seek medical advice if periods stop for several months, become extremely heavy, or are accompanied by severe pain."
     }
   ]
 }
